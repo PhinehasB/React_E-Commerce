@@ -7,9 +7,9 @@ const Navbar = () => {
   return (
     <nav className="navbar navbar-expand-lg navbar-light bg-light py-1 sticky-top">
       <div className="container">
-        <NavLink className="navbar-brand fw-bold fs-4 px-2" to="/">
+        <NavLink className="navbar-brand fw-bold fs-4 px-2 " to="/">
           <img
-            className="card-img img-fluid opacity-75 logo-size"
+            className=" card-img img-fluid opacity-75 logo-size"
             src="./assets/logo.png"
             alt="logo"
           />
